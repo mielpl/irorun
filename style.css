@@ -17,7 +17,7 @@ header, main, footer {
 	display: flex;
 	margin: 0 100px;
 	max-width: 1440px;
-	width: 100%;
+	width: calc(100% - 30px);
 }
 
 header {
